@@ -16,6 +16,7 @@ Autores adicionais nos comentários:
 //Rev3: 1-11-2023 Refinamento do código e ajustes para o funcionamento no FIWARE Descomplicado
 //Autor Rev3: Fábio Henrique Cabrini
 //link da simulação wokwi: https://wokwi.com/projects/441203962116738049
+//link do video no youtube do projeto: https://youtu.be/JP01_lkfRg8
 
 #include <WiFi.h>           // Biblioteca para conexão Wi-Fi
 #include <PubSubClient.h>   // Biblioteca para MQTT
