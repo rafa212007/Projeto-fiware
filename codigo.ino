@@ -23,7 +23,7 @@ Autores adicionais nos comentários:
 // Configurações - variáveis editáveis
 const char* default_SSID = "Wokwi-GUEST";         // Nome da rede Wi-Fi
 const char* default_PASSWORD = "";                // Senha da rede Wi-Fi
-const char* default_BROKER_MQTT = "20.163.23.245";// IP do Broker MQTT
+const char* default_BROKER_MQTT = "20.116.216.196";// IP do Broker MQTT
 const int default_BROKER_PORT = 1883;             // Porta do Broker MQTT
 const char* default_TOPICO_SUBSCRIBE = "/TEF/lamp001/cmd";     // Tópico MQTT para escuta
 const char* default_TOPICO_PUBLISH_1 = "/TEF/lamp001/attrs";   // Tópico para enviar status do LED
